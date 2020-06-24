@@ -1,11 +1,10 @@
 <div>
     export { } <br>
 
-
 <code>
-// Variable declaration
-let x = 20;
-const y = 15;
+// Variable declaration <br>
+let x = 20; <br>
+const y = 15; <br>
 </code>
 
 // variable type
