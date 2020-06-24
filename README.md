@@ -1,11 +1,12 @@
 <div>
-    export { }
-let message = "Hello User!"
+    export { } <br>
 
 
+<code>
 // Variable declaration
 let x = 20;
 const y = 15;
+</code>
 
 // variable type
 
